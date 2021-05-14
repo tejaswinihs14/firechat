@@ -1,7 +1,7 @@
 import firebase from "firebase/app";
 import "firebase/database";
 
-const firebaseConfig = {
+const config = {
   apiKey: "AIzaSyCE_56r48rkS_1SFSgqYiZLU_AcMmNtfHg",
   authDomain: "firevuechat-dc68b.firebaseapp.com",
   projectId: "firevuechat-dc68b",
